@@ -18,9 +18,9 @@
 		//
 
 		posts.forEach(function (post) {
-			html += '<h2>';
+			html += '<div class="alert alert-success" role="alert">';
 			html += post.subject;
-			html += '';			
+			html += '</div>';			
 		});
 
 		content.html(html);
