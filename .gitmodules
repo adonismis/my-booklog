@@ -1,0 +1,3 @@
+[submodule "libfoo"]
+    path = public
+    url = https://github.com/adonismis/adonismis.git.hub.io.git
